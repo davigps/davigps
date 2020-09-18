@@ -11,4 +11,5 @@ I'm Davi Sousa, I love to discover new technologies and bring ideas to the real 
 ### 📑 My GitHub's Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=davigsousa&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigsousa&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </div>
