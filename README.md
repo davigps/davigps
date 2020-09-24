@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img align="right" src="https://www.alura.com.br/assets/api/cursos/512/react-js.png" width="150"/>
+
 I'm Davi Sousa, I love to discover new technologies and bring ideas to the real world. Computer science student and participant in the Junior Enterprise Movement, as developer of Codex Jr. Also, I enjoy participating in open source projects to develop dreams together and be part of this wonderful community.
 
 ### 🔎 You can reach me at
