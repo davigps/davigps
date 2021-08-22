@@ -8,7 +8,7 @@ I'm Davi Sousa, I love to discover new technologies and bring ideas to the real 
 
 ![GitHub followers](https://img.shields.io/github/followers/davigsousa?label=Seguir&style=social)
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davig-sousa/" height="22" title="LinkedIn" />](https://www.linkedin.com/in/davig-sousa/) 
-[<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/davig_sousa" height="22" title="Instagram" />](https://www.instagram.com/davig_sousa)
+[<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/davig_sousa" height="22" title="Instagram" />](https://www.instagram.com/davi.gps)
 
 ### 📑 My GitHub's Stats
 <div>
